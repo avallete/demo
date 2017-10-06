@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  users: {
+    "toto": {"password": "toto", isAdmin: true},
+    "titi": {"password": "titi", isAdmin: false}
   }
 }
